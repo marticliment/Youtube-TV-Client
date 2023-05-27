@@ -8,7 +8,7 @@
 
   <Identity
     Name="9932MartCliment.YoutubeTVClient"
-    Publisher="CN=7054F010-7BE3-4163-B64E-D51DF58CF867"
+    Publisher="CN=marti"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="46c91493-7ccb-4946-a145-275dbe724dcc" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
@@ -35,7 +35,7 @@
         DisplayName="Youtube TV Client"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="UNOFFICIAL Youtuve TV Client for Windows machines"
+        Description="UNOFFICIAL Youtube TV Client for Windows Computers"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

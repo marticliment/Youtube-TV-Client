@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Youtube TV")]
-[assembly: AssemblyDescription("UNOFFICIAL Youtube TV Client")]
+[assembly: AssemblyTitle("Youtube TV Client")]
+[assembly: AssemblyDescription("UNOFFICIAL Youtube TV Client for Windows computers")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Martí Climent")]
 [assembly: AssemblyProduct("Youtube TV")]
 [assembly: AssemblyCopyright("Copyright © Google (i guess?)")]
 [assembly: AssemblyTrademark("Google")]
