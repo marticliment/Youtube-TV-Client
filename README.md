@@ -7,4 +7,4 @@ This UWP application is a simple WebView2 frame using a custom User Agent String
 
 **DISCLAIMER: This project is not related with Google at all. All youtube logos and other symbols are their property, and should be used according to their terms.**
 
-Note: The max resolution will be determined by the window size on launch.
+Note: The max resolution will be determined by the window size on launch. This is Why this application launches fullscreened
