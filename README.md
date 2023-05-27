@@ -1,4 +1,4 @@
-# [UNOFFICIAL] Youtube TV Client
+# <img src="https://raw.githubusercontent.com/marticliment/Youtube-TV-Client/main/Assets/StoreLogo.png" height="40">Youtube TV Client for PC [UNOFFICIAL]
 A **UNIOFFICIAL** Youtube TV Client for devices running Windows.
 This UWP application is a simple WebView2 frame using a custom User Agent String, emularing a Smart TV.
 
