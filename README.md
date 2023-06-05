@@ -1,14 +1,15 @@
 # <img src="https://raw.githubusercontent.com/marticliment/YouTube-TV-Client/main/Assets/StoreLogo.png" height="40">YouTube TV Client for PC [UNOFFICIAL]
-A **UNIOFFICIAL** YouTube TV Client for devices running Windows.
+A **UNIOFFICIAL** TubeTV: a YouTube TV Client for devices running Windows.
 This UWP application is a simple WebView2 frame that uses a custom User Agent String, emulating a Smart TV.
 
 **DISCLAIMER: This project is not related with Google at all. All YouTube logos and other symbols are their property, and should be used according to their terms. I am not affiliated with Google.**
 
-![image](https://github.com/marticliment/YouTube-TV-Client/assets/53119851/141d76de-cff6-42d0-be97-6bc7b001bba7)
+![image](https://github.com/marticliment/Youtube-TV-Client/assets/53119851/76d179b3-c5cf-4aca-b217-88de48122e13)
 
 # Installation
 
-Microsoft Store. The package is under verification and has not been approved yet, I will post a link here when published.
+[<img alt="alt_text" width="240px" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Get_it_from_Microsoft_Badge.svg" href=""/>](https://apps.microsoft.com/store/detail/tubetv-tv-client-for-yt/9N8M9J4T2XVW)
+<br>
 
 # Usage
 Use it as you would use YouTube TV. Use the arrows on your keyboard to navigate across the whole interface, and use <kbd>Enter</kbd> as the Ok button.
@@ -25,3 +26,9 @@ A: The maximum resolution will be determined by the window size on launch, there
 
 **Q: YouTube TV has different languages, but this application shows in english only.**<br>
 You can change the language on the in-app preferences.
+
+# Screenshots
+![image](https://store-images.s-microsoft.com/image/apps.7965.14046630558528880.fefadf9c-4a92-40c2-81ad-e464a1a4ee67.c0328ec6-5d0a-407e-9938-937d2f0fd0f8?h=768)
+![image](https://store-images.s-microsoft.com/image/apps.46083.14046630558528880.fefadf9c-4a92-40c2-81ad-e464a1a4ee67.d5075204-582e-4908-9f51-9974e7a2e254?h=768)
+![image](https://store-images.s-microsoft.com/image/apps.9493.14046630558528880.fefadf9c-4a92-40c2-81ad-e464a1a4ee67.460bbcd3-6944-4b89-892c-673ff64b67e1?h=768)
+![image](https://store-images.s-microsoft.com/image/apps.3944.14046630558528880.fefadf9c-4a92-40c2-81ad-e464a1a4ee67.1885686a-cbe7-4d47-ac02-c7b6c886fe9f?h=768)
