@@ -48,18 +48,25 @@ namespace Youtube_TV
 
         private void CurrentView_BackRequested(object sender, BackRequestedEventArgs e)
         {
-            webView.Source = new Uri("https://www.youtube.com/tv#/");
+            if (webView.CanGoBack)
+            {
+                webView.GoBack();
+            }
+            else
+            {
+                webView.Source = new Uri("https://www.youtube.com/tv#/");
+            }
             webView.Focus(FocusState.Programmatic);
-            currentView.AppViewBackButtonVisibility = AppViewBackButtonVisibility.Collapsed;
         }
 
         async void loadYoutube()
         {
             await webView.EnsureCoreWebView2Async();
-            webView.CoreWebView2.Settings.UserAgent = "Mozilla/5.0 (WebOS; SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5283.0 Safari/537.36";
+            webView.CoreWebView2.Settings.UserAgent = "Mozilla/5.0 (WebOS; SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5283.0 Safari/537.36";
             webView.Source = new Uri("https://www.youtube.com/tv#/");
             webView.CoreWebView2.NavigationCompleted += (s, e) => { focusYoutube(); };
             webView.CoreWebView2.WindowCloseRequested += (s, e) => { Application.Current.Exit(); };
+            webView.CoreWebView2.ContextMenuRequested += (s, e) => { };
             webView.Focus(FocusState.Programmatic);
         }
 

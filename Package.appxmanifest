@@ -8,13 +8,13 @@
 
   <Identity
     Name="9932MartCliment.YoutubeTVClient"
-    Publisher="CN=marti"
-    Version="1.0.0.0" />
+    Publisher="CN=7054F010-7BE3-4163-B64E-D51DF58CF867"
+    Version="1.1.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="46c91493-7ccb-4946-a145-275dbe724dcc" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>Youtube TV Client</DisplayName>
+    <DisplayName>TubeTV - Client for YT TV</DisplayName>
     <PublisherDisplayName>Martí Climent</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -32,10 +32,10 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="Youtube_TV.App">
       <uap:VisualElements
-        DisplayName="Youtube TV Client"
+        DisplayName="TubeTV - Client for YT TV"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="UNOFFICIAL Youtube TV Client for Windows Computers"
+        Description="UNOFFICIAL Youtube TV Client for Windows Devices"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

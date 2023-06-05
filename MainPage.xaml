@@ -10,9 +10,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button>You lost the game</Button> <!-- This dummy button helps with WebView2 focusing issues -->
+        <Button HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FontSize="40" FontWeight="Bold">Please wait, loading Youtube TV...</Button> <!-- This dummy button helps with WebView2 focusing issues -->
         <controls:WebView2 Name="webView">
-
         </controls:WebView2>
     </Grid>
 </Page>
