@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/marticliment/YouTube-TV-Client/main/Assets/StoreLogo.png" height="40">YouTube TV Client for PC [UNOFFICIAL]
-A **UNIOFFICIAL** TubeTV: a YouTube TV Client for devices running Windows.
+A **UNOFFICIAL** TubeTV: a YouTube TV Client for devices running Windows.
 This UWP application is a simple WebView2 frame that uses a custom User Agent String, emulating a Smart TV.
 
-**DISCLAIMER: This project is not related with Google at all. All YouTube logos and other symbols are their property, and should be used according to their terms. I am not affiliated with Google.**
+**DISCLAIMER: This project is not related to Google at all. All YouTube logos and other symbols are their property and should be used according to their terms. I am not affiliated with Google.**
 
 ![image](https://github.com/marticliment/Youtube-TV-Client/assets/53119851/76d179b3-c5cf-4aca-b217-88de48122e13)
 
@@ -18,13 +18,13 @@ Navigation can also be done with the mouse cursor and scroll wheel, but it is tr
 
 You can also link YouTube TV to your phone as if it was a regular TV app, and then cast videos to it.
 
-When searching for videos, typing with your keyboard will work, but note that **pressing the enter key will type the selected character**. Results are loaded automatically, you just need to scroll down in order to see them.
+When searching for videos, typing with your keyboard will work, but note that **pressing the enter key will type the selected character**. Results are loaded automatically, you just need to scroll down to see them.
 
 # FAQ
-**Q: Maximum resolution is limited to a lower resulution**<br>
-A: The maximum resolution will be determined by the window size on launch, therefore, by your device's screen resolution.
+**Q: Maximum resolution is limited to a lower resolution**<br>
+A: The maximum resolution will be determined by the window size on launch and, therefore, by your device's screen resolution.
 
-**Q: YouTube TV has different languages, but this application shows in english only.**<br>
+**Q: YouTube TV has different languages, but this application shows in English only.**<br>
 You can change the language on the in-app preferences.
 
 # Screenshots
