@@ -8,7 +8,7 @@ This UWP application is a simple WebView2 frame that uses a custom User Agent St
 
 # Installation
 
-[<img alt="alt_text" width="240px" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Get_it_from_Microsoft_Badge.svg" href=""/>](https://apps.microsoft.com/store/detail/tubetv-tv-client-for-yt/9N8M9J4T2XVW)
+Download the installer from here: https://github.com/marticliment/Youtube-TV-Client/releases/download/1.1.0.0/9932MartCliment.YoutubeTVClient_1.1.0.0_neutral_._g91dtg5srk15g.Msixbundle
 <br>
 
 # Usage
